@@ -1,3 +1,2 @@
-# Tips for this week
-
-In planning for the second and final sprint week, how do you intend to test the success of your application.
+Went back over earlier work just to keep everything consistent
+Talked through ideas for the next sprint with the team
